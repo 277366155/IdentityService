@@ -1,0 +1,12 @@
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\bin\Debug\netstandard2.0\IdentityService.deps.json
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\bin\Debug\netstandard2.0\IdentityService.dll
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\bin\Debug\netstandard2.0\IdentityService.pdb
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\bin\Debug\netstandard2.0\Dto.dll
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\bin\Debug\netstandard2.0\Dto.pdb
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.csprojAssemblyReference.cache
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.csproj.CoreCompileInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.AssemblyInfoInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.AssemblyInfo.cs
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.csproj.CopyComplete
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.dll
+F:\Project_Net\IdentityService\IdentityDemo\IdentityService\obj\Debug\netstandard2.0\IdentityService.pdb

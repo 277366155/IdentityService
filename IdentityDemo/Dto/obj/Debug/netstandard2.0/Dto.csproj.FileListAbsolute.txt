@@ -1,0 +1,12 @@
+F:\Project_Net\IdentityService\IdentityDemo\Dto\bin\Debug\netstandard2.0\Dto.deps.json
+F:\Project_Net\IdentityService\IdentityDemo\Dto\bin\Debug\netstandard2.0\Dto.dll
+F:\Project_Net\IdentityService\IdentityDemo\Dto\bin\Debug\netstandard2.0\Dto.pdb
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.csproj.CoreCompileInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.AssemblyInfoInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.AssemblyInfo.cs
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.dll
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.pdb
+F:\Project_Net\IdentityService\IdentityDemo\Dto\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+F:\Project_Net\IdentityService\IdentityDemo\Dto\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.csproj.CopyComplete
+F:\Project_Net\IdentityService\IdentityDemo\Dto\obj\Debug\netstandard2.0\Dto.csprojAssemblyReference.cache

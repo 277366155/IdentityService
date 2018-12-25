@@ -1,0 +1,14 @@
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\DapperDAL.deps.json
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\DapperDAL.dll
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.csproj.CoreCompileInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.AssemblyInfoInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.AssemblyInfo.cs
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.csprojAssemblyReference.cache
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\DapperDAL.pdb
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\Core.dll
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\Dto.dll
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\Core.pdb
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\bin\Debug\netstandard2.0\Dto.pdb
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.csproj.CopyComplete
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.dll
+F:\Project_Net\IdentityService\IdentityDemo\DapperDAL\obj\Debug\netstandard2.0\DapperDAL.pdb

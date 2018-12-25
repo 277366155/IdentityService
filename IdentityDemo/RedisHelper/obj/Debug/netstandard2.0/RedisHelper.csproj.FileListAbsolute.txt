@@ -1,0 +1,6 @@
+F:\Project_Net\IdentityService\IdentityDemo\RedisHelper\bin\Debug\netstandard2.0\RedisHelper.deps.json
+F:\Project_Net\IdentityService\IdentityDemo\RedisHelper\bin\Debug\netstandard2.0\RedisHelper.dll
+F:\Project_Net\IdentityService\IdentityDemo\RedisHelper\obj\Debug\netstandard2.0\RedisHelper.csproj.CoreCompileInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\RedisHelper\obj\Debug\netstandard2.0\RedisHelper.AssemblyInfoInputs.cache
+F:\Project_Net\IdentityService\IdentityDemo\RedisHelper\obj\Debug\netstandard2.0\RedisHelper.AssemblyInfo.cs
+F:\Project_Net\IdentityService\IdentityDemo\RedisHelper\obj\Debug\netstandard2.0\RedisHelper.csprojAssemblyReference.cache
